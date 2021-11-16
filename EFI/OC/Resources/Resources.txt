@@ -1,1 +1,2 @@
-引导图形界面文件
+引导图形界面文件<br>
+解压Resources.zip文件夹内容放置在 Resources目录下
